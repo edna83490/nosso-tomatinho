@@ -77,7 +77,7 @@ de conteúdo, desenvolvimento web e publicação de uma aplicação.
 
 ### 💻 Código-fonte
 
-[**Ver projeto no GitHub**](https://github.com/edna83490/nosso-tomatinho/blob/main/README.md))
+[**Ver projeto no GitHub**](https://github.com/edna83490/nosso-tomatinho)
 
 ## 👩‍💻 Projeto desenvolvido por
 
