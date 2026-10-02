@@ -71,11 +71,13 @@ de conteúdo, desenvolvimento web e publicação de uma aplicação.
 
 ## 🚀 Demonstração
 
-A aplicação está disponível online:
+### 🌐 Aplicação online
 
-**Tomato Roots — Rastreabilidade Agroecológica**
+[**Acessar o Tomato Roots**](https://tomato-roots-story.lovable.app)
 
-[Ver projeto](https://tomato-roots-story.lovable.app)
+### 💻 Código-fonte
+
+[**Ver projeto no GitHub**](https://github.com/edna83490/tomato-roots-story)
 
 ## 👩‍💻 Projeto desenvolvido por
 
